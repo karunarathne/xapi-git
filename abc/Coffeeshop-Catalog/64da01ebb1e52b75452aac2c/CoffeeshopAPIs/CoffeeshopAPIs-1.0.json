@@ -1,7 +1,7 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "OpenAPI 3.1 Specification for CoffeeShop from xapieditor",
+    "title": "OpenAPI 3.1 Specification for CoffeeShop from github!!!",
     "summary": "Sample Coffee Shop Server based on the OpenAPI 3.1 specification.",
     "description": "This is a sample Coffee Shop Server based on the OpenAPI 3.1 specification. It's the first version and includes several areas, such as 'Menu', 'Order', 'User', 'Inventory', 'Notification', and more. We plan to add more features in the future. Please refer to this sample and help us improve it. If you want to learn more about OpenAPI, you can follow the link to XapiiHub [https://xapihub.io/].",
     "termsOfService": "http://xapihub.io/terms/",
